@@ -1,7 +1,7 @@
 # Moduler_PLC_Programming
 Advenced Moduler PLC Programming
 
-[Linkedin Trailer Video](https://www.linkedin.com/feed/update/urn:li:activity:6822566829710417920/)
+[Linkedin Trailer Video Link](https://www.linkedin.com/feed/update/urn:li:activity:6822566829710417920/)
 
 I am sharing the PLC software and Factory IO scene of the project I realized as an example of PLC Programming techniques in my GITHUB account.
 
