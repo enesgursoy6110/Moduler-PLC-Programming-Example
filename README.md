@@ -1,5 +1,5 @@
 # Moduler_PLC_Programming
-Advenced Moduler PLC Programming
+Advanced Moduler PLC Programming
 
 [Linkedin Trailer Video Link](https://www.linkedin.com/feed/update/urn:li:activity:6822566829710417920/)
 
